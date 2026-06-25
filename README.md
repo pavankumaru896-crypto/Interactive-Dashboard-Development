@@ -1,6 +1,10 @@
 # Interactive-Dashboard-Development
 Interactive Excel dashboard for business analytics featuring data cleaning, duplicate removal, KPI cards, charts, and visual insights to support data-driven decision-making using a 500-record sales dataset.
+
+
 📊 Interactive Dashboard Development
+
+
 📌 Project Overview
 
 This project focuses on developing an interactive business dashboard using Microsoft Excel. The dashboard transforms raw sales data into meaningful visual insights with KPI cards, charts, and summary reports, enabling users to monitor business performance and make data-driven decisions.
@@ -55,9 +59,17 @@ Total Quantity Sold
 
 
 Visualizations
+
+
 📈 Monthly Sales Trend
+
+
 📊 Sales by Region
+
+
 🥧 Payment Mode Distribution
+
+
 🧹 Data Cleaning Process
 Removed duplicate records
 Checked for missing values
