@@ -14,6 +14,8 @@ Analyze business performance using Excel.
 Create an interactive dashboard.
 Present key performance indicators (KPIs).
 Support decision-making through data visualization.
+
+
 📂 Dataset Information
 
 Dataset Size: 500 Records
@@ -32,6 +34,8 @@ Profit
 Quantity
 Discount
 Payment Mode
+
+
 🛠️ Tools Used
 Microsoft Excel
 Pivot Tables
@@ -40,12 +44,16 @@ KPI Cards
 Data Cleaning
 Charts
 Data Visualization
+
+
 📈 Dashboard Features
 KPI Cards
 Total Sales
 Total Profit
 Total Orders
 Total Quantity Sold
+
+
 Visualizations
 📈 Monthly Sales Trend
 📊 Sales by Region
@@ -56,6 +64,8 @@ Checked for missing values
 Standardized data formatting
 Verified unique Order IDs
 Organized data into a structured table
+
+
 📊 Business Insights
 Identified monthly sales trends.
 Compared regional sales performance.
@@ -70,6 +80,7 @@ Create Product-wise Analysis
 Add Customer Segment Dashboard
 Build an Advanced Executive Dashboard
 Convert the project into Power BI
+
 🎓 Learning Outcomes
 Data Cleaning
 Data Visualization
@@ -77,6 +88,6 @@ KPI Dashboard Design
 Excel Analytics
 Business Intelligence
 Decision Support Analysis
-📌 Conclusion
 
+📌 Conclusion
 This project demonstrates how Microsoft Excel can be used to clean, analyze, and visualize business data effectively. The interactive dashboard provides clear insights into sales, profit, regional performance, and payment trends, helping users make informed business decisions.
